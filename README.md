@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hey there 🙌😊
 
-<!--
-**EstherSit/EstherSit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Karibu. 
 
-Here are some ideas to get you started:
+![esthergithub](https://github.com/EstherSit/EstherSit/blob/main/https://i.pinimg.com/originals/08/99/14/0899142a776dd86b5a1d0a2d23a1a8f8.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+- 👯 I’m looking to collobaorate on HTML, CSS and JavaScript and I'm also open to learn other technologies.
+
+- ♣️ I'm hireable for a job as a junior front-end Software Developer.
+
+- 📫 How to reach me: ennsituma@gmail.com
+
+
+
+<a href="https://twitter.com/QEstherrrr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/QEstherrrr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uguxtuxd3xdhkfm23m2ivh7ot&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+
+
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+
+
+
+
+</p>
+
+
+- ⚡ Fun fact: Besides my Love for Building with JavaScript,<br>
+     I find joy in making cartoon animations and acting:)
+    <br>
+  
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=CSituma&icon=0&color=0)](https://visitcount.itsvg.in)
