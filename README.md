@@ -9,7 +9,7 @@
 
 
 
-- 👯 I’m looking to collobaorate on HTML, CSS and JavaScript and I'm also open to learn other technologies.
+- 👯 I’m looking to collobaorate on HTML, CSS and JavaScript and I'm also open to learn other new technologies.
 
 - ♣️ I'm hireable for a job as a junior front-end Software Developer.
 
